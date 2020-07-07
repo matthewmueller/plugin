@@ -1,6 +1,6 @@
 # Plugin
 
-Plugin is a generic plugins sytem for Go. It was originally built for extending CLIs with custom commands.
+Plugin is a generic plugin system for Go. It was originally built for extending CLIs with custom commands.
 
 ## Install
 
